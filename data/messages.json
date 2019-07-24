@@ -4,11 +4,11 @@
       "content": "Hello there!"
     },
     {
-      "content": "I am William",
+      "content": "I am Zihan",
       "option": {
         "content": "Who are you?",
         "reply": {
-          "content": "Bofei Wang, Warrior of codes, Killer of bugs, Chaser of infinity, Spurner of the status quo, Supporter of <a href='https://996.icu/'>996ICU</a>, noble bachelor, Lover of animals, Enthusiast of Apple, Fan of Freedom Call and Creator of <a href='https://github.com/bofeiw/InteractiveMessage'>Interactive Message</a>"
+          "content": "Zihan Zhou, Warrior of codes, Killer of bugs, Chaser of infinity, Spurner of the status quo, Supporter of <a href='https://996.icu/'>996ICU</a>, noble bachelor, Lover of animals, Enthusiast of Apple, Fan of Freedom Call and Creator of <a href='https://github.com/bofeiw/InteractiveMessage'>Interactive Message</a>"
         }
       }
     }
