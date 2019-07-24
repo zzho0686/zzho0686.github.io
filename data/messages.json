@@ -11,6 +11,15 @@
           "content": "Zihan Zhou, Warrior of codes, Killer of bugs, Chaser of infinity, Spurner of the status quo, Supporter of <a href='https://996.icu/'>996ICU</a>, noble bachelor, Lover of animals, Enthusiast of Apple, Fan of Freedom Call and Creator of <a href='https://github.com/bofeiw/InteractiveMessage'>Interactive Message</a>"
         }
       }
-    }
+    },
+	{
+		"content": "I am the third year student~",
+		"option": {
+			"content": "What's your major?",
+			"reply": {
+				"content": "I was doing computer science for the first year and second year, information system for the third year"
+			}
+		}
+	}
   ]
 }
